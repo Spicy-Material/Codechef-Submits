@@ -1,4 +1,4 @@
-//Spicy-Material
+//spicymaterial
 #include <stdio.h>
 
 int main()
